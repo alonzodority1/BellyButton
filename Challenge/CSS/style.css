@@ -1,0 +1,16 @@
+body {color:#0f0e0e;
+
+
+ 
+}
+p {color:#eee7e7;}
+h5 {color: #111111;}
+h6 {color: #18181a;}
+option {color:brown}
+
+
+  .jumbotron {
+    background-image: url("images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }  
